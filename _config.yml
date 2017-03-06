@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: github.com/epratheeban
+url: https://epratheeban.github.io/vitae/
 author: Pratheeban
 
 # edit this section with your information
@@ -20,8 +20,8 @@ email: epratheeban@gmailcom
 email_full: mailto:epratheeban@gmail.com
 website: github.com/epratheeban
 website_full: 
-github: github.com/epratheeban
-twitter: twitter.com/epratheeban
+github: epratheeban
+twitter: epratheeban
 tel: +33 (0) 783361655
 tel_full: tel:+33783361655
 google_maps: 'https://www.google.fr/maps/place/Fondation+Danoise,+7+Boulevard+Jourdan,+75014+Paris/@48.8293536,2.3491942,13z/data=!4m5!3m4!1s0x47e6719f7a9b3c2d:0xb66f7daaeb3ad64!8m2!3d48.8184998!4d2.342459'
